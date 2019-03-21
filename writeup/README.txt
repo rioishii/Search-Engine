@@ -1,1 +1,0 @@
-Your writeup should go in this folder.
